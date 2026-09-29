@@ -39,9 +39,14 @@
 > I crear usuaris
 >i dividir
 
-[x]: Crear maquines
-[x]: Instalar
-[x]: configurar
-[]: crear users
-[]: tallafocs
-[]: servei
+- [x]: Crear maquines
+- [x]: Instalar
+- [x]: configurar
+- []: crear users
+- []: tallafocs
+- []: servei
+
+
+Equipo ||---|----|---|----|-----|---|
+IP SO
+Servidor | 192.168.1.10 Debian |
