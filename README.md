@@ -29,7 +29,7 @@
     ```
 [Text per al enllaç](https://trello.com)
 
-![Descripció de la imatge](./images.jpeg)
+![Descripció de la imatge](./src/images.jpeg)
 > Antes de instalar Apache debemos actualizar el sistema.
 > I crear usuaris
 >i dividir
